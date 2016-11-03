@@ -1,0 +1,33 @@
+{
+  "name": "example-gulp-task-browserify-multi-entry-point",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "js:dev": "gulp js --env development",
+    "js:prd": "gulp js --env production"
+  },
+  "author": "okamoai <okamoai@rano-raraku.net>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/okamoai/example-gulp-task-browserify-multi-entry-point.git"
+  },
+  "engines": {
+    "node": "^4.4.2"
+  },
+  "devDependencies": {
+    "browserify": "^13.1.0",
+    "gulp": "^3.9.1",
+    "gulp-if": "^2.0.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-uglify": "^2.0.0",
+    "minimist": "^1.2.0",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "jquery.easing": "^1.4.1"
+  }
+}
