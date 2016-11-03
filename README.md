@@ -28,7 +28,7 @@ npm run js:prd
 
 ## ライセンス
 
-[MIT](http://github.com/okamoai/example-gulp-task-browserify-multi-entry-point/blob/master/LICENCE)
+[MIT](http://github.com/okamoai/example-gulp-task-browserify-multi-entry-point/blob/master/LICENSE)
 
 ## 制作者
 
